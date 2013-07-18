@@ -1,0 +1,5 @@
+今天上node.js的课程
+周围全是macbook，
+很刺激
+不过学习了，node.js, heroku, git,mongodb, express.js, json 
+受益匪浅啊
